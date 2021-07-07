@@ -10,4 +10,9 @@ class Demo2ApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	public void testMethod2() {
+		System.out.println("Test Method Welcomes YOU!!!!!!!!!!!!!");
+	}
+
 }
